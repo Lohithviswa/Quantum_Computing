@@ -8,8 +8,7 @@ Here I used IBMQ quantum computer
 
 requirements:
 
-install qiskit (latest version)
-install python (3.7 and above)
+install qiskit (latest version) and python (3.7 and above)
 
 
 
